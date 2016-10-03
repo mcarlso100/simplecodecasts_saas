@@ -25,3 +25,92 @@
 /usr/local/go/src/runtime/proc.go:188 (0x460a20)
 /usr/local/go/src/runtime/asm_amd64.s:1998 (0x490291)
 
+2016/10/03 20:39:00 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/10/03 20:39:00 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/10/03 20:39:00 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: login
+2016/10/03 20:39:00 Email: 
+2016/10/03 20:39:54 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/10/03 20:39:54 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/10/03 20:39:54 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/10/03 20:39:54 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: plugins
+2016/10/03 20:40:38 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/10/03 20:40:38 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/10/03 20:40:38 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: keys:add
+2016/10/03 20:41:04 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/10/03 20:41:04 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/10/03 20:41:04 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: create
+2016/10/03 20:46:58 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/10/03 20:46:58 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/10/03 20:46:58 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: git:remote
+2016/10/03 20:46:59 Error: Expected response to be successful, got 404
+    at Request.handleFailure (/home/ubuntu/.local/share/heroku/cli/lib/node_modules/heroku-git/node_modules/heroku-client/lib/request.js:240:11)
+    at concat.then (/home/ubuntu/.local/share/heroku/cli/lib/node_modules/heroku-git/node_modules/heroku-client/lib/request.js:131:16)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+2016/10/03 20:46:59 {"resource":"app","id":"not_found","message":"Couldn't find that app."}
+2016/10/03 20:50:49 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/10/03 20:50:49 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/10/03 20:50:49 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: git:remote
+2016/10/03 20:50:50 Error: Expected response to be successful, got 404
+    at Request.handleFailure (/home/ubuntu/.local/share/heroku/cli/lib/node_modules/heroku-git/node_modules/heroku-client/lib/request.js:240:11)
+    at concat.then (/home/ubuntu/.local/share/heroku/cli/lib/node_modules/heroku-git/node_modules/heroku-client/lib/request.js:131:16)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+2016/10/03 20:50:50 {"resource":"app","id":"not_found","message":"Couldn't find that app."}
+2016/10/03 20:56:14 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/10/03 20:56:14 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/10/03 20:56:14 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: git:remote
+2016/10/03 20:56:14 Error: Expected response to be successful, got 404
+    at Request.handleFailure (/home/ubuntu/.local/share/heroku/cli/lib/node_modules/heroku-git/node_modules/heroku-client/lib/request.js:240:11)
+    at concat.then (/home/ubuntu/.local/share/heroku/cli/lib/node_modules/heroku-git/node_modules/heroku-client/lib/request.js:131:16)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+2016/10/03 20:56:14 {"id":"not_found","message":"The requested API endpoint was not found. Are you using the right HTTP verb (i.e. `GET` vs. `POST`), and did you specify your intended version with the `Accept` header?"}
+2016/10/03 20:56:47 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/10/03 20:56:47 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/10/03 20:56:47 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: git:remote
+2016/10/03 20:56:47 Error: Expected response to be successful, got 404
+    at Request.handleFailure (/home/ubuntu/.local/share/heroku/cli/lib/node_modules/heroku-git/node_modules/heroku-client/lib/request.js:240:11)
+    at concat.then (/home/ubuntu/.local/share/heroku/cli/lib/node_modules/heroku-git/node_modules/heroku-client/lib/request.js:131:16)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+2016/10/03 20:56:47 {"id":"not_found","message":"The requested API endpoint was not found. Are you using the right HTTP verb (i.e. `GET` vs. `POST`), and did you specify your intended version with the `Accept` header?"}
+2016/10/03 20:57:01 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/10/03 20:57:01 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/10/03 20:57:02 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: git:remote
+2016/10/03 20:57:02 Error: Expected response to be successful, got 404
+    at Request.handleFailure (/home/ubuntu/.local/share/heroku/cli/lib/node_modules/heroku-git/node_modules/heroku-client/lib/request.js:240:11)
+    at concat.then (/home/ubuntu/.local/share/heroku/cli/lib/node_modules/heroku-git/node_modules/heroku-client/lib/request.js:131:16)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+2016/10/03 20:57:02 {"id":"not_found","message":"The requested API endpoint was not found. Are you using the right HTTP verb (i.e. `GET` vs. `POST`), and did you specify your intended version with the `Accept` header?"}
+2016/10/03 20:57:23 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/10/03 20:57:23 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/10/03 20:57:23 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: git:remote
+2016/10/03 20:57:24 Error: Expected response to be successful, got 404
+    at Request.handleFailure (/home/ubuntu/.local/share/heroku/cli/lib/node_modules/heroku-git/node_modules/heroku-client/lib/request.js:240:11)
+    at concat.then (/home/ubuntu/.local/share/heroku/cli/lib/node_modules/heroku-git/node_modules/heroku-client/lib/request.js:131:16)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+2016/10/03 20:57:24 {"resource":"app","id":"not_found","message":"Couldn't find that app."}
+2016/10/03 20:58:02 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/10/03 20:58:02 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/10/03 20:58:02 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: git:remote
+2016/10/03 20:58:02 Error: Expected response to be successful, got 403
+    at Request.handleFailure (/home/ubuntu/.local/share/heroku/cli/lib/node_modules/heroku-git/node_modules/heroku-client/lib/request.js:240:11)
+    at concat.then (/home/ubuntu/.local/share/heroku/cli/lib/node_modules/heroku-git/node_modules/heroku-client/lib/request.js:131:16)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+2016/10/03 20:58:02 {"id":"forbidden","message":"You do not have access to the app origin."}
+2016/10/03 20:58:22 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/10/03 20:58:22 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/10/03 20:58:22 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: git:remote
+2016/10/03 20:58:23 Error: Expected response to be successful, got 404
+    at Request.handleFailure (/home/ubuntu/.local/share/heroku/cli/lib/node_modules/heroku-git/node_modules/heroku-client/lib/request.js:240:11)
+    at concat.then (/home/ubuntu/.local/share/heroku/cli/lib/node_modules/heroku-git/node_modules/heroku-client/lib/request.js:131:16)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+2016/10/03 20:58:23 {"id":"not_found","message":"The requested API endpoint was not found. Are you using the right HTTP verb (i.e. `GET` vs. `POST`), and did you specify your intended version with the `Accept` header?"}
+2016/10/03 21:00:16 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/10/03 21:00:16 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/10/03 21:00:16 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: keys:add
+2016/10/03 21:01:05 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/10/03 21:01:05 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/10/03 21:01:05 heroku-cli/5.2.39-010a227 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: git:remote
+2016/10/03 21:01:06 Error: Expected response to be successful, got 404
+    at Request.handleFailure (/home/ubuntu/.local/share/heroku/cli/lib/node_modules/heroku-git/node_modules/heroku-client/lib/request.js:240:11)
+    at concat.then (/home/ubuntu/.local/share/heroku/cli/lib/node_modules/heroku-git/node_modules/heroku-client/lib/request.js:131:16)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+2016/10/03 21:01:06 {"resource":"app","id":"not_found","message":"Couldn't find that app."}
